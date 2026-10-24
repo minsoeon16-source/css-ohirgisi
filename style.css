@@ -1,0 +1,123 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1500px;
+    margin: auto;
+    background-color: #232536;
+   padding: 20px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 15px;
+    color: white;
+}
+.wapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1500px;
+    margin: auto;
+    padding: 20px;
+   
+}
+.section{
+    margin: auto;
+     background-color: #232536;
+}
+.img1{
+    width: 350px;
+    height: 400px;
+}
+.card{
+    max-width: 1300px;
+    align-items: center;
+    margin: auto;
+    background-color: #232536;
+    padding: 20px;
+
+}
+.img2{
+    width: 1280px;
+    height: 106px;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+}
+.img4{
+    width: 400px;
+    height: 400x;
+}
+.img5{
+    width: 405px;
+    height: 335px;
+}
+.img6{
+    width: 350px;
+    height: 164px;
+}
+.img7{
+    width: 168px;
+    height: 86px;
+}
+
+.img8{
+    width: 607px;
+    height: 359px;
+}
+input{
+    width: 430px;
+    height: 64px;
+    
+}
+.cardiB{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+   
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1500px;
+        margin: auto;
+        background-color: #FFE6D2;
+        padding: 10px;
+        
+    }
+    .card2{
+    width: 395px;
+    height: 164px;
+   outline: auto;
+   text-align: center;
+   margin-top: 20px;
+   background-color: white;
+    }
+    .carddiv{
+        width: 400px;
+        height: 250px;
+        outline: auto;
+        text-align: center;
+         position: relative; 
+         background-color: white;
+    }
+    .cardimg{
+      position: absolute ;
+      top: 10px;
+      left: 15px;
+    }
+    h2{
+        color: #232536;
+    }
+    .lastdiv{
+        width: 300px;
+        height: 260px;
+        outline: auto;
+        position: relative;
+    }
+    
